@@ -1,13 +1,17 @@
 <!-- ABOUT THE PROJECT -->
 # ABOUT THE PROJECT
-![oauth](https://i.imgur.com/7ozVwNx.png)
+<div align="center">
+  <p align="center">
+	<img src="https://i.imgur.com/7ozVwNx.png" width="300" height="300" />
+  </p>
+</div>
 
 	    Analyzed various algorithms to resolve Pocket (Rubik) Cube.
 	    The algoritmhs implemented are:
-1. A*
-2. Bidirectional BFS
-3. Monte Carlo Tree Search
-4. Pattern Database	
+    1. A*
+    2. Bidirectional BFS
+    3. Monte Carlo Tree Search
+    4. Pattern Database	
 
 
 ### Built With
@@ -64,8 +68,7 @@ Project Link: [https://github.com/CosminAvramescu/Python-Pocket-Cube-Artificial-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [rpcgen](https://docs.oracle.com/cd/E19683-01/816-1435/rpcgenpguide-21470/index.html)
-* [OAuth](https://www.soapui.org/docs/oauth1/oauth1-overview/)
+* [a* heuristic](https://stackoverflow.com/questions/60130124/heuristic-function-for-rubiks-cube-in-a-algorithm-artificial-intelligence)
 
 
 
